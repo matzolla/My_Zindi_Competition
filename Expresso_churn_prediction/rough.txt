@@ -1,1 +1,1 @@
-
+important links: https://github.com/sharmaroshan/Christiano-Ronaldo---Goal-Prediction-Top-40-/blob/master/goal-prediction.ipynb
