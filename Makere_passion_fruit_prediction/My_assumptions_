@@ -3,3 +3,7 @@ RCNN:
 https://github.com/ravirajsinh45/implementation_of_RCNN
 
 here is the link to the competition: https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge
+
+But it looks like rcnn are not end to end trainable detectors so let's check out a better approach:
+
+
