@@ -9,3 +9,6 @@ But it looks like rcnn are not end to end trainable detectors so let's check out
 link: https://www.pyimagesearch.com/2020/10/05/object-detection-bounding-box-regression-with-keras-tensorflow-and-deep-learning/
 
 We will try this one for multiclass, classification and object detection: https://www.pyimagesearch.com/2020/10/12/multi-class-object-detection-and-bounding-box-regression-with-keras-tensorflow-and-deep-learning/
+
+
+Let's see how to tune faster RCNN models to improve performance
