@@ -12,3 +12,6 @@ We will try this one for multiclass, classification and object detection: https:
 
 
 Let's see how to tune faster RCNN models to improve performance
+
+
+https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/
