@@ -2,3 +2,4 @@ important links: https://github.com/sharmaroshan/Christiano-Ronaldo---Goal-Predi
 second place solution expresso last year: https://github.com/KolatimiDave/Expresso-Customer-Churn-Prediction/blob/master/Expresso.ipynb
 
 creating subsamples of the train set to perform predictions slowly but surely
+target encoding, Principal component analysis etc
