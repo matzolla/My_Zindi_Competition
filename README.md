@@ -1,7 +1,7 @@
-# My_Zindi_Competition
-Here will be my zindi competitions repo.
+# WedOO_ai_Zindi_Competitions
+Here will be our zindi competitions repo.
 
-The main objectif is to provide the winning solutions
+The main objectif is to provide the winning solutions and improve the skills of the team and the community in research and development
 
 Working hard for that
 
