@@ -5,3 +5,6 @@ creating subsamples of the train set to perform predictions slowly but surely
 target encoding, Principal component analysis etc.
 
 https://github.com/marx-keyz/Winning-Solution-Expresso-Churn-Prediction-Challenge-by-DSN/blob/master/solution.ipynb
+
+
+collab for luganda speech to text : https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/asr/ASR_with_NeMo.ipynb#scrollTo=0S5iZPMSlRzg
