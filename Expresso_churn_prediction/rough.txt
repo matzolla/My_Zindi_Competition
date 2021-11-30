@@ -10,3 +10,6 @@ https://github.com/marx-keyz/Winning-Solution-Expresso-Churn-Prediction-Challeng
 collab for luganda speech to text : https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/asr/ASR_with_NeMo.ipynb#scrollTo=0S5iZPMSlRzg
 
 https://stackoverflow.com/questions/22984335/recovering-features-names-of-explained-variance-ratio-in-pca-with-sklearn
+
+
+https://www.kaggle.com/hassanamin/principal-component-analysis-with-code-examples
