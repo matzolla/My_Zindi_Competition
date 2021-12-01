@@ -13,3 +13,5 @@ https://stackoverflow.com/questions/22984335/recovering-features-names-of-explai
 
 
 https://www.kaggle.com/hassanamin/principal-component-analysis-with-code-examples
+
+https://ndres.me/kaggle-past-solutions/
