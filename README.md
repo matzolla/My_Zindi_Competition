@@ -9,4 +9,4 @@ starting date 07/10/2021
 
 ### Projects
 
-1. 9th_place winning solution Makere passion fruit disease detection challenge, you can have access to the data here : https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge/data
+1. 8th_place winning solution Makere passion fruit disease detection challenge, you can have access to the data here : https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge/data
