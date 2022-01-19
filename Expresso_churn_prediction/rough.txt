@@ -21,4 +21,4 @@ https://ndres.me/kaggle-past-solutions/
 
 ##some useful ideas
 
-
+https://www.knime.com/blog/near-infrared-spectroscopy-nir-data-analysis-using-knime
