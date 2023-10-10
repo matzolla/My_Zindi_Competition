@@ -1,0 +1,23 @@
+Using XLRoberta:
+
+              1 ---> resolved the problem of generating the test set done. 
+                ---> actual accuracy on 20% of test data is ~45%
+              2 ---> actually combining the data for 5 different  give an accuracy of ~ 46%
+                ---> doing training on transfer corpus of eng_ron_wol_sna also gives ~46%
+              3 ----> at the moment ,nothing is working still stucked
+              4 ----> tried ft-eval on sna data and accuracy is 49%
+              5 ----> had 2 labels set on setswana and dholuo language when train on these models the score is 51%
+              6 ----> Remember the competition says one model for both languages (assemble model will work then) : 
+                   --> When the model is train on only one of these languages, how does it generalises on the other? It doesn't generalizes very well
+                   --> May be taking the model train on Luo on one hand and setswana on the other hand can perform better? yes it improves the accuracy to 52.2%
+                   --> I hope yes then adding extra-data will help even improve model performance better? (yes but not that much unfortunately still in 52.26%)
+                   --> what about having a validation set? didn't try for now
+              3 ---> create a manual annotator for Luo on one hand and Tsn on the other hand : ---> For each word in tsn and luo provided their predictions (number of counts in each class)
+                                                                                               ---> select the Top K co-occuring words in the Luo/Tsn corpus and check for their ground truth
+                                                                                               ---> Look how our model did perform for this words at the moment accuarcy is ~ 60% (I'm so happy)
+
+
+
+Objective Our Target accuracy is ~ 75%
+
+
