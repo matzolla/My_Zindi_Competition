@@ -29,5 +29,6 @@ Use this same approach for UNICEF
 1. with Mobilenetv2 I got a score of 0.377777 LB
 densenet169 and resnet50 are too large backbones for faster RCNN
 2. with Resnet18 I got a score of 0.3489 LB a 0.03 drop compared to Mobilenetv2.
+3. with Resnet34 I got almost similar score ~0.3505 LB
 
 ----- with 15 training epochs ----------------------
