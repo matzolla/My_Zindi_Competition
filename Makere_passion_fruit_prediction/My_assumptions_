@@ -25,5 +25,5 @@ now research paper...!
 https://pypi.org/project/pyspectra/
 
 Use this same approach for UNICEF
-    with Mobilenetv2 I got a score of 0.377777
+1. with Mobilenetv2 I got a score of 0.377777
 densenet169 and resnet50 are too large backbones for faster RCNN
