@@ -36,7 +36,8 @@ Use this same approach for UNICEF [Target MAE of ~0.20 and below if possible]
   - Plan to do heavy augmentation : Heavy augmentation doesn't work well (at all...!)
   - Mixup the objectif is to generate about 2000 images.
 3. Hyper-parameter tuning.
-  - Aspect ratio also gives some slight improvement in the aspect ratio column when : (0.5, 1.0,2.0,2.5) gives a LB ~ 0.33
+  - Aspect ratio also gives some slight improvement specifically, the aspect (0.5, 1.0,2.0,2.5) gives a LB ~ 0.33
+  - changing from SGD to Adam?
 
 
 
